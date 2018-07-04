@@ -11,7 +11,7 @@ module.exports = {
     RangeCoder: require('./lib/RangeCoder'),
     // compression methods
     BWTC: require('./lib/BWTC'),
-    Bzip2: require('./lib/Bzip2')
+    Bzip2: require('./lib/Bzip2'),
     Dmc: require('./lib/Dmc'),
     Lzjb: require('./lib/Lzjb'),
     LzjbR: require('./lib/LzjbR'),
